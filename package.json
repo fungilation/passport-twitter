@@ -36,13 +36,13 @@
   "main": "./lib",
   "dependencies": {
     "passport-oauth1": "1.x.x",
-    "xtraverse": "0.1.x"
+    "xtraverse": "fungilation/node-xtraverse"
   },
   "devDependencies": {
-    "make-node": "0.4.6",
-    "mocha": "2.x.x",
     "chai": "2.x.x",
-    "chai-passport-strategy": "1.x.x"
+    "chai-passport-strategy": "1.x.x",
+    "make-node": "0.4.6",
+    "mocha": "2.x.x"
   },
   "engines": {
     "node": ">= 0.4.0"
